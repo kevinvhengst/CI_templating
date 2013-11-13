@@ -7,7 +7,10 @@ All credit goes to them.
 
 Using the Library
 -------------
-To start using our library, let’s create a template view, named default.php in application/views/templates,
+
+Add this library to /application/libraries/
+
+To start using this library, let’s create a template view, named default.php in application/views/templates,
 and place the following HTML/PHP inside:
 
 ```
